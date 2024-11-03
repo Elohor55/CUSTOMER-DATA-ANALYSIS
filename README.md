@@ -72,6 +72,16 @@ group by region
 
 The dashboard visualizes key insights on customer segmentation, subscription trends, and revenue analysis.
 
+![Screenshot (23)](https://github.com/user-attachments/assets/9559d499-1c53-4d2a-898f-1c22fdda5161)
+
+![image](https://github.com/user-attachments/assets/381ea77b-9884-4d56-a7dd-8ab073428d84)
+
+![image](https://github.com/user-attachments/assets/c0120321-2716-4476-95ba-0f2faf5bd5fc)
+
+![image](https://github.com/user-attachments/assets/d2995152-5128-4860-9e6b-e3fc3fc2eb2c)
+
+
+
 # Recommendations
 
 1. Target marketing efforts towards North and West.
